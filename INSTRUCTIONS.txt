@@ -1,0 +1,2 @@
+COPY GAME FILES TO SDCARD\clannad
+after installing the xclannad apk. (androidclannad.apk)
